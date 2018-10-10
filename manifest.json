@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
     "name": "Mormon Style Guide Updater",
-    "description": "Replaces various uses of the word \"Mormon\" with alternative phrasing, according to the church\'s style guide.",
+    "description": "Replaces various uses of the word \"Mormon\" with alternative phrasing, according to the church's style guide.",
     "version": "1.1",
     "content_scripts": [
         {
