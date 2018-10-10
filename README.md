@@ -1,8 +1,10 @@
 WHAT: 
-This is a Chrome browser extension that can help readers avoid encountering the word "Mormon" in their web browser, following [the announcement](https://www.sltrib.com/religion/2018/10/07/members-offend-jesus/) by the President of the Church of Jesus Christ of Latter-day Saints that use of the common nickname for the church and its people "was a major victory for Satan." This browser extension replaces various uses of the word \"Mormon\" with alternative phrasing. For example, "Mormon Tabernacle Choir" is replaced with "Tabernacle Choir at Temple Square," and "Mormons" (plural) is replaced by "members of the Church of Jesus Christ of Latter-day Saints." It doesn't replace all instances of the word "Mormon," because for example "Book of Mormon" and the prophet named "Mormon" are still acceptable uses according to the church's style guide.
+This is a Chrome browser extension that can help readers avoid encountering the word "Mormon" in their web browser, following [the announcement](https://www.sltrib.com/religion/2018/10/07/members-offend-jesus/) by the President of the Church of Jesus Christ of Latter-day Saints that use of the common nickname for the church and its people "was a major victory for Satan." 
+
+This browser extension replaces various uses of the word \"Mormon\" with alternative phrasing. For example, "Mormon Tabernacle Choir" is replaced with "Tabernacle Choir at Temple Square," and "Mormons" (plural) is replaced by "members of the Church of Jesus Christ of Latter-day Saints." It doesn't replace all instances of the word "Mormon," because for example "Book of Mormon" and the prophet named "Mormon" are still acceptable uses according to the church's style guide.
 
 WHY:
-Mostly for fun.
+Mostly for fun. I initially made [a more tongue-in-cheek version](https://github.com/cynthiablee/victory-for-satan-blocker), but some folks didn't like that so I've made this somewhat serious version.
 
 HOW:
 To manually install from this GitHub repo, follow these steps:
